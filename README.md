@@ -1,4 +1,4 @@
-Projeto utilizando amazon textract
+  **Projeto utilizando amazon textract**
 
 **Descrição**
 Este projeto utiliza o Amazon Textract, um serviço de OCR da AWS, para extrair texto de uma imagem de lista de material escolar. O texto extraído é processado e exibido para facilitar o gerenciamento e análise do conteúdo, como itens e quantidades.
